@@ -1,0 +1,6 @@
+C:\Users\hhhhh\Desktop\hossein\Linq-example\Linq-example\bin\Debug\Linq-example.exe.config
+C:\Users\hhhhh\Desktop\hossein\Linq-example\Linq-example\bin\Debug\Linq-example.exe
+C:\Users\hhhhh\Desktop\hossein\Linq-example\Linq-example\bin\Debug\Linq-example.pdb
+C:\Users\hhhhh\Desktop\hossein\Linq-example\Linq-example\obj\Debug\Linq-example.csprojResolveAssemblyReference.cache
+C:\Users\hhhhh\Desktop\hossein\Linq-example\Linq-example\obj\Debug\Linq-example.exe
+C:\Users\hhhhh\Desktop\hossein\Linq-example\Linq-example\obj\Debug\Linq-example.pdb
